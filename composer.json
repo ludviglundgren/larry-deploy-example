@@ -1,0 +1,12 @@
+{
+    "name": "ludviglundgren/larry",
+    "description": "larry blog",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ludvig Lundgren",
+            "email": "hello@ludviglundgren.se"
+        }
+    ],
+    "require": {}
+}
